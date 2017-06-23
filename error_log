@@ -1,0 +1,538 @@
+[03-Jun-2017 18:51:48 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moovs_db.tbl_users' doesn't exist' in /home/moovs/public_html/ajax/home.php:12
+Stack trace:
+#0 /home/moovs/public_html/ajax/home.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/moovs/public_html/ajax/home.php on line 12
+[03-Jun-2017 18:51:54 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moovs_db.tbl_users' doesn't exist' in /home/moovs/public_html/ajax/home.php:12
+Stack trace:
+#0 /home/moovs/public_html/ajax/home.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/moovs/public_html/ajax/home.php on line 12
+[03-Jun-2017 19:07:03 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moovs_db.tbl_users' doesn't exist' in /home/moovs/public_html/home.php:12
+Stack trace:
+#0 /home/moovs/public_html/home.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/moovs/public_html/home.php on line 12
+[03-Jun-2017 19:07:07 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moovs_db.tbl_users' doesn't exist' in /home/moovs/public_html/home.php:12
+Stack trace:
+#0 /home/moovs/public_html/home.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/moovs/public_html/home.php on line 12
+[03-Jun-2017 19:07:44 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'moovs_db.tbl_users' doesn't exist' in /home/moovs/public_html/home.php:12
+Stack trace:
+#0 /home/moovs/public_html/home.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/moovs/public_html/home.php on line 12
+[03-Jun-2017 19:23:34 America/Sao_Paulo] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:23:34 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:23:50 America/Sao_Paulo] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:23:50 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:23:53 America/Sao_Paulo] PHP Warning:  require_once(dbconfig.php): failed to open stream: No such file or directory in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:23:53 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required 'dbconfig.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/moovs/public_html/login_process.php on line 3
+[03-Jun-2017 19:35:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:35:56 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:35:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:35:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:36:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:36:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:37:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:37:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:37:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:37:25 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:37:25 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:37:25 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/painel.php on line 7
+[03-Jun-2017 19:38:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:38:40 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:38:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:42:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/moovs/public_html/painel.php on line 5
+[03-Jun-2017 19:49:00 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:00 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:00 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:00 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:02 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:02 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:02 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:02 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:04 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:04 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:04 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:04 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:18 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:19 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:19 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:19 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:19 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[03-Jun-2017 19:49:26 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:26 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:26 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[03-Jun-2017 19:49:26 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[04-Jun-2017 14:11:10 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:18 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:19 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:19 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:19 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:19 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:20 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:22 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:22 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:22 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:22 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:20:31 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:31 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:31 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:20:31 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:23 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[05-Jun-2017 19:39:26 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[08-Jun-2017 00:03:40 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:03:40 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:03:45 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:03:45 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:03:51 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:04:10 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:08:39 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 8
+[08-Jun-2017 00:10:04 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:10:04 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:10:32 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:10:32 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:14:06 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:15:08 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 11
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:23:53 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:25:02 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:25:02 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:25:15 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:25:15 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:25:15 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:25:15 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:25:15 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:26:06 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:27:29 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:27:29 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:27:29 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:27:29 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:16 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:28:45 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:42 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:29:46 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:30:09 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:33:36 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:35:58 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 41
+[08-Jun-2017 00:35:58 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 41
+[08-Jun-2017 00:36:19 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 41
+[08-Jun-2017 00:36:19 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 41
+[08-Jun-2017 00:37:50 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:37:50 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:37:50 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:37:50 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:39:20 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 16
+[08-Jun-2017 00:39:20 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:41:14 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:41:14 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:41:45 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:42:23 America/Sao_Paulo] PHP Fatal error:  Cannot use try without catch or finally in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 26
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:42:59 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:43:25 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:43:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:44:17 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 28
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 29
+[08-Jun-2017 00:45:44 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 30
+[08-Jun-2017 00:48:54 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 17
+[08-Jun-2017 00:48:54 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 18
+[08-Jun-2017 00:48:54 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:48:54 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:48:54 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 27
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:55:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 12
+[08-Jun-2017 00:57:27 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:27 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:27 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:57:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:58:01 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:58:01 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:58:01 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 00:58:01 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 25
+[08-Jun-2017 07:58:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/moovs/public_html/cad_process.php on line 46
+[08-Jun-2017 18:51:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/moovs/public_html/cad_process.php on line 46
+[14-Jun-2017 21:18:40 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:40 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:40 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:40 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[14-Jun-2017 21:18:41 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[14-Jun-2017 21:19:43 America/Sao_Paulo] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/moovs/public_html/cadastrando.php on line 13
+[14-Jun-2017 21:19:43 America/Sao_Paulo] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/moovs/public_html/cadastrando.php on line 13
+[14-Jun-2017 21:20:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/moovs/public_html/cad_process.php on line 46
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:07 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/search.php on line 8
+[17-Jun-2017 13:45:08 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/moovs/public_html/search.php on line 9
+[17-Jun-2017 13:50:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/moovs/public_html/cad_process.php on line 47
+[17-Jun-2017 13:51:10 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '*' in /home/moovs/public_html/cad_process.php on line 49
+[17-Jun-2017 13:52:01 America/Sao_Paulo] PHP Fatal error:  Call to undefined function alert() in /home/moovs/public_html/cad_process.php on line 7
+[17-Jun-2017 13:52:21 America/Sao_Paulo] PHP Fatal error:  Call to undefined function alert() in /home/moovs/public_html/cad_process.php on line 7
+[17-Jun-2017 13:52:58 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 12
+[17-Jun-2017 13:52:58 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 12
+[17-Jun-2017 13:52:58 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 12
+[17-Jun-2017 13:52:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 12
+[17-Jun-2017 13:56:37 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:56:37 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:56:37 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:56:37 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:04 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:04 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:04 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:24 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:24 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:24 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:57:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:58:27 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:58:27 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:58:27 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:58:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:17 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:17 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:17 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:17 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:30 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:30 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:30 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 13:59:30 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:00:57 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:00:57 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:00:57 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:00:57 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:01:58 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:01:58 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:01:58 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:01:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:05:47 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:05:47 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:05:47 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:05:47 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 9
+[17-Jun-2017 14:06:38 America/Sao_Paulo] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:06:38 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:06:38 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:06:38 America/Sao_Paulo] PHP Fatal error:  Call to undefined function error() in /home/moovs/public_html/cad_process.php on line 8
+[17-Jun-2017 14:24:03 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 7
+[17-Jun-2017 14:24:03 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/cad_process.php on line 25
+[17-Jun-2017 14:24:03 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/cad_process.php on line 26
+[17-Jun-2017 14:25:39 America/Sao_Paulo] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/moovs/public_html/cad_process.php on line 7
+[17-Jun-2017 14:29:09 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/login_process.php on line 13
+[17-Jun-2017 14:29:28 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/login_process.php on line 13
+[17-Jun-2017 14:34:05 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 14:34:18 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 14:34:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 14:34:27 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 14:34:40 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 14:35:54 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 14:36:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:36:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:37:03 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:37:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:37:35 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:37:56 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 19
+[17-Jun-2017 14:39:19 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 19
+[17-Jun-2017 14:39:51 America/Sao_Paulo] PHP Fatal error:  Call to a member function query() on resource in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:42:22 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 14:52:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ',' in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 14:58:50 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 14:59:48 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 15:01:01 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 15:01:17 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 15:03:07 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 15:03:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function prepare() on null in /home/moovs/public_html/painel.php on line 11
+[17-Jun-2017 19:12:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 19:12:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=' in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 19:30:17 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 19:30:17 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 19:31:04 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 19:31:04 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 19:32:24 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 17
+[17-Jun-2017 19:32:24 America/Sao_Paulo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/moovs/public_html/login_process.php on line 18
+[17-Jun-2017 19:54:31 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:27:24 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:41:38 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:41:46 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:42:29 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:42:32 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:42:36 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:43:00 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:43:33 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:43:51 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:44:32 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:47:29 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:47:40 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:50:16 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:50:46 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:52:00 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:53:13 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:54:17 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:55:59 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:56:04 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:57:17 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:58:34 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/moovs/public_html/login_process.php on line 26
+[17-Jun-2017 20:58:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/moovs/public_html/login_process.php on line 26
+[17-Jun-2017 20:58:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/moovs/public_html/login_process.php on line 26
+[17-Jun-2017 20:59:30 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 20:59:56 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 21:00:24 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 21:01:00 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 21:01:45 America/Sao_Paulo] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/moovs/public_html/login_process.php on line 15
+[17-Jun-2017 21:35:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/moovs/public_html/login_process.php on line 28
+[17-Jun-2017 21:43:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/moovs/public_html/login_process.php on line 30
+[17-Jun-2017 21:44:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/moovs/public_html/login_process.php on line 30
+[17-Jun-2017 23:15:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '/' in /home/moovs/public_html/painel.php on line 88
+[17-Jun-2017 23:15:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '/' in /home/moovs/public_html/painel.php on line 88
+[17-Jun-2017 23:15:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '/' in /home/moovs/public_html/painel.php on line 88
+[17-Jun-2017 23:15:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '/' in /home/moovs/public_html/painel.php on line 88
+[17-Jun-2017 23:15:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '/' in /home/moovs/public_html/painel.php on line 88
+[18-Jun-2017 14:13:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/moovs/public_html/cad_process.php on line 26
+[18-Jun-2017 14:13:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/moovs/public_html/cad_process.php on line 26
+[18-Jun-2017 15:10:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:10:08 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:10:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:10:37 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:10:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:11:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:11:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/moovs/public_html/painel.php on line 112
+[18-Jun-2017 15:23:58 America/Sao_Paulo] PHP Warning:  move_uploaded_file(cache/9d069b79ce5fba13f5d72120e95a1f6f): failed to open stream: No such file or directory in /home/moovs/public_html/upload.php on line 29
+[18-Jun-2017 15:23:58 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF5Axrj' to 'cache/9d069b79ce5fba13f5d72120e95a1f6f' in /home/moovs/public_html/upload.php on line 29
+[18-Jun-2017 15:30:04 America/Sao_Paulo] PHP Warning:  move_uploaded_file(cache/45505d8ac446075724e51db017d452aa): failed to open stream: No such file or directory in /home/moovs/public_html/upload.php on line 29
+[18-Jun-2017 15:30:04 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRo7o8j' to 'cache/45505d8ac446075724e51db017d452aa' in /home/moovs/public_html/upload.php on line 29
